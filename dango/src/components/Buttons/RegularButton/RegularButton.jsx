@@ -1,7 +1,6 @@
 import { useMemo } from "react";
 import PropTypes from "prop-types";
 import styles from "./RegularButton.module.css";
-import "../../../styles/global.css";
 
 const RegularButton = ({
   className = "",
